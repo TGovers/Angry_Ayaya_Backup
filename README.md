@@ -31,7 +31,7 @@
 
 ## Angry Ayaya Demonstration Video
 
-### Amoide (思い出) Demonstration
+### Omoide (思い出) Demonstration
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/GYrOufe.png)](https://vimeo.com/367559235)
 
