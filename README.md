@@ -12,7 +12,7 @@
 ![alt text](https://i.imgur.com/7Wf6Aga.png "Angry Ayaya")
 
 ## Table of Contents  
-[Angry Ayaya Demostration Videos](#angryayayademonstrationvideos)
+[Angry Ayaya Demostration Video](#angryayayademonstrationvideo)
 
 [Angry Ayaya TLDR](#angryayayatldr)
 
@@ -24,20 +24,16 @@
 
 [License](#license)
 
-<a name="angryayayademonstrationvideos"/>
+<a name="angryayayademonstrationvideo"/>
 <a name="angryayayatldr"/>
 <a name="installationguide"/>
 <a name="angryayayaindepth"/>
 
-## Angry Ayaya Demonstration Videos
+## Angry Ayaya Demonstration Video
 
-### Song Demonstration
+### Amoide (思い出) Demonstration
 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/az9tJKi.png)](https://vimeo.com/339302587)
-
-### White Noise Demonstration
-
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/n7VhvBz.png)](https://vimeo.com/339303323)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/GYrOufe.png)](https://vimeo.com/367559235)
 
 ## Angry Ayaya TLDR
 
