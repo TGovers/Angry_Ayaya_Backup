@@ -37,6 +37,18 @@
 
 ## Angry Ayaya TLDR
 
+Angry Ayaya is a part of a greater plugin suite by Studio Nani called 
+
+### Omoide (思い出)
+
+Check out our other awesome plugins through the following links!
+
+- https://github.com/TGovers/Tokyo_Re-Verb
+
+- https://github.com/TGovers/Initial_Delay
+
+- https://github.com/TGovers/Initial_Demon
+
 Angry Ayaya is a simple and intuitive VST plugin with an anime aesthetic. It utilises a 2-parameter IRR filter and a 4-parameter Distortion. Angry Ayaya was designed for use with a multitude of different instruments in mind, such as
 * Synths
 * Baritone Electric Guitars
